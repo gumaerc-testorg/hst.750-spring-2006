@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a23be3f3-fc88-b750-ec0e-12875925cb81
 resourcetype: Document
 title: wekly_assignment.pdf
 uid: 2a7bbcec-2e94-ee3c-29e0-c7e70520a23c

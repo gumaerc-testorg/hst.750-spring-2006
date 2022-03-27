@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a23be3f3-fc88-b750-ec0e-12875925cb81
 resourcetype: Document
 title: pset10_wk14.pdf
 uid: 442ed4c2-2a39-79de-c05f-4b2c8ee1def4

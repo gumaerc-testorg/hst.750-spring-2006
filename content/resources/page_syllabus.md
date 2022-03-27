@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a23be3f3-fc88-b750-ec0e-12875925cb81
 resourcetype: Document
 title: page_syllabus.pdf
 uid: 1b1e95a1-d9a9-2dc7-bda5-570a6cd71ed2
