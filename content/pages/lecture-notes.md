@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The lecture notes section contains information about the lecture titles
+  and their descriptions along with topics and their key dates.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
