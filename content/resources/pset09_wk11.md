@@ -5,6 +5,7 @@ file: /courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/dafb584
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pset09_wk11.pdf
 uid: dafb5840-cb1a-a800-f5f0-70da191ccfe9
 ---
 This resource contains problem sets on molecular mathematical biology.
-

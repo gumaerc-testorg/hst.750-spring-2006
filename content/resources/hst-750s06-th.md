@@ -10,10 +10,10 @@ image_metadata:
   image-alt: Illustration that says, Nothing is great or little otherwise than by
     comparison.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-750s06-th.jpg
 uid: f88ba1b7-50ad-4345-0beb-032050b3c3a9
 ---
 New image Upload
-
