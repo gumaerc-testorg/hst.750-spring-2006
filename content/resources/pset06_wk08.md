@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problem set on curve fitting/resampling.
 file: /courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/e0b3202b8eb98756ad7916be3dbde991_pset06_wk08.pdf
+file_size: 81274
 file_type: application/pdf
 learning_resource_types:
 - Assignments
