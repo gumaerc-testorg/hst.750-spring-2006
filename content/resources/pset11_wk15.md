@@ -3,6 +3,7 @@ content_type: resource
 description: This resource conatains projections, frameworks, cartesian vs dialectical
   and modeling in your work.
 file: /courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/6e8dd169a5cb092bd333fd768de573f8_pset11_wk15.pdf
+file_size: 24864
 file_type: application/pdf
 learning_resource_types:
 - Assignments
