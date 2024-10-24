@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains notes on problem/discussion sets for the course.
-file: /courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/2a7bbcec2e94ee3c29e0c7e70520a23c_wekly_assignment.pdf
+file: /ol-ocw-studio-app/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/2a7bbcec2e94ee3c29e0c7e70520a23c_wekly_assignment.pdf
 file_size: 35573
 file_type: application/pdf
 learning_resource_types:
