@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains various issues in hearing and speech.
-file: /courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/21cff3b537488274e7b630cadcafb10d_pset05_wk07.pdf
+file: /ol-ocw-studio-app/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/21cff3b537488274e7b630cadcafb10d_pset05_wk07.pdf
 file_size: 351287
 file_type: application/pdf
 learning_resource_types:
