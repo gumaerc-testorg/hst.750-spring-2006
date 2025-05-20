@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problem sets on molecular mathematical biology.
-file: /ol-ocw-studio-app/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/dafb5840cb1aa800f5f070da191ccfe9_pset09_wk11.pdf
+file: /courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/dafb5840cb1aa800f5f070da191ccfe9_pset09_wk11.pdf
 file_size: 23929
 file_type: application/pdf
 learning_resource_types:
