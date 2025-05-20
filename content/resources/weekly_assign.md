@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/dfe25e3f12a5289355960b7743d2f024_weekly_assign.pdf
+file: /courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/dfe25e3f12a5289355960b7743d2f024_weekly_assign.pdf
 file_size: 37434
 file_type: application/pdf
 learning_resource_types:
