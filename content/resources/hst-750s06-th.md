@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/f88ba1b750ad43450beb032050b3c3a9_hst-750s06-th.jpg
+file: /ol-ocw-studio-app/courses/hst-750-modeling-issues-in-speech-and-hearing-spring-2006/f88ba1b750ad43450beb032050b3c3a9_hst-750s06-th.jpg
 file_size: 11287
 file_type: image/jpeg
 image_metadata:
